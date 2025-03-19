@@ -9,21 +9,25 @@ Este proyecto es una aplicación web para organizar un sorteo de amigo secreto. 
 - CSS
 
 ## Uso
- - Se debe ingresar el nombre de tus amigos. Esto se vera reflejado en una lista.
+ - Ingresar a https://melcortesaguilera.github.io/proyectoamigosecreto/
+ - SEscribir el nombre de tus amigos. Esto se vera reflejado en una lista.
  - Luego, al momento de sortear, el programa realiza la seleccion al azar. 
  - El nombre sorteado se muestea en pantalla.
+   ![image](https://github.com/user-attachments/assets/37b46d0c-2890-4fb5-b3e1-b3d95f5807f3)
+
 
 ## Instalación
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/proyecto-amigo-secreto.git
+    git clone https://github.com/Melcortesaguilera/proyectoamigosecreto/tree/main
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd proyecto-amigo-secreto
+    cd proyectoamigosecreto
     ```
 3. Abre el archivo `index.html` en tu navegador.
+
 
 ## Contribuciones
 
